@@ -1,0 +1,15 @@
+I:\git\Lesson01C\Example006_Waight\bin\Debug\net6.0\Example006_Waight.exe
+I:\git\Lesson01C\Example006_Waight\bin\Debug\net6.0\Example006_Waight.deps.json
+I:\git\Lesson01C\Example006_Waight\bin\Debug\net6.0\Example006_Waight.runtimeconfig.json
+I:\git\Lesson01C\Example006_Waight\bin\Debug\net6.0\Example006_Waight.dll
+I:\git\Lesson01C\Example006_Waight\bin\Debug\net6.0\Example006_Waight.pdb
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.csproj.AssemblyReference.cache
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.GeneratedMSBuildEditorConfig.editorconfig
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.AssemblyInfoInputs.cache
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.AssemblyInfo.cs
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.csproj.CoreCompileInputs.cache
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.dll
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\refint\Example006_Waight.dll
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.pdb
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\Example006_Waight.genruntimeconfig.cache
+I:\git\Lesson01C\Example006_Waight\obj\Debug\net6.0\ref\Example006_Waight.dll
