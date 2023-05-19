@@ -1,0 +1,15 @@
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.csproj.AssemblyReference.cache
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.GeneratedMSBuildEditorConfig.editorconfig
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.AssemblyInfoInputs.cache
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.AssemblyInfo.cs
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.csproj.CoreCompileInputs.cache
+I:\git\Lesson01C\HWtheDog\bin\Debug\net6.0\HWtheDog.exe
+I:\git\Lesson01C\HWtheDog\bin\Debug\net6.0\HWtheDog.deps.json
+I:\git\Lesson01C\HWtheDog\bin\Debug\net6.0\HWtheDog.runtimeconfig.json
+I:\git\Lesson01C\HWtheDog\bin\Debug\net6.0\HWtheDog.dll
+I:\git\Lesson01C\HWtheDog\bin\Debug\net6.0\HWtheDog.pdb
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.dll
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\refint\HWtheDog.dll
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.pdb
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\HWtheDog.genruntimeconfig.cache
+I:\git\Lesson01C\HWtheDog\obj\Debug\net6.0\ref\HWtheDog.dll
